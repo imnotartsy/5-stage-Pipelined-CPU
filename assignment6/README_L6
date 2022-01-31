@@ -1,0 +1,12 @@
+README - Lab 6
+
+compilation command:
+
+vcom -quiet -2008 *.vhd tb/*.vhd imem/*.vhd
+
+
+simulation + vcd generation:
+
+vsim -quiet -c work.pipelinedcpu2_tb -do "log -r /*; run 500ns; exit" -wlf pipelinedcpu2.wlf &&  wlf2vcd pipelinedcpu2.wlf -o pipelinedcpu2.vcd
+
+

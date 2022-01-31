@@ -1,0 +1,59 @@
+/h/tpatro01/ee126/assignment2/dmem_tb.vhd {1 {vcom -work work3 -2002 -explicit -vopt -stats=none /h/tpatro01/ee126/assignment2/dmem_tb.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity dmem_tb
+-- Compiling architecture behave of dmem_tb
+
+} {} {}} /h/tpatro01/ee126/assignment2/imem.vhd {2 {vcom -work work3 -2002 -explicit -vopt -stats=none /h/tpatro01/ee126/assignment2/imem.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity IMEM
+-- Compiling architecture rtl of IMEM
+** Warning: /h/tpatro01/ee126/assignment2/imem.vhd(25): (vcom-1074) Non-locally static OTHERS choice is allowed only if it is the only choice of the only association.
+
+} {} {}} /h/tpatro01/ee126/assignment2/registers_tb.vhd {1 {vcom -work work3 -2002 -explicit -vopt -stats=none /h/tpatro01/ee126/assignment2/registers_tb.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity registers_tb
+-- Compiling architecture behave of registers_tb
+
+} {} {}} /h/tpatro01/ee126/assignment2/imem_tb.vhd {1 {vcom -work work3 -2002 -explicit -vopt -stats=none /h/tpatro01/ee126/assignment2/imem_tb.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity imem_tb
+-- Compiling architecture behave of imem_tb
+
+} {} {}} /h/tpatro01/ee126/assignment2/cpucontrol_tb.vhd {1 {vcom -work work3 -2002 -explicit -vopt -stats=none /h/tpatro01/ee126/assignment2/cpucontrol_tb.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity cpucontrol_tb
+-- Compiling architecture behave of cpucontrol_tb
+
+} {} {}} /h/tpatro01/ee126/assignment2/add_tb.vhd {1 {vcom -work work3 -2002 -explicit -vopt -stats=none /h/tpatro01/ee126/assignment2/add_tb.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity add_tb
+-- Compiling architecture behave of add_tb
+
+} {} {}} /h/tpatro01/ee126/assignment2/alu_tb.vhd {1 {vcom -work work3 -2002 -explicit -vopt -stats=none /h/tpatro01/ee126/assignment2/alu_tb.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity alu_tb
+-- Compiling architecture behave of alu_tb
+
+} {} {}}

@@ -1,0 +1,7 @@
+# vsim -quiet -c work.pipelinedcpu0_tb -do "log -r /*; run 500ns; exit" -wlf pipelinedcpu0.wlf 
+# Start time: 21:07:39 on Nov 07,2021
+# ** Error (suppressible): (vsim-19) Failed to access library 'work' at "work".
+# No such file or directory. (errno = ENOENT)
+# Error loading design
+# End time: 21:07:39 on Nov 07,2021, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0

@@ -1,0 +1,126 @@
+/h/tpatro01/ee126/assignment1/and2.vhd {1 {vcom -work work1 -2002 -explicit -vopt -stats=none /h/tpatro01/ee126/assignment1/and2.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity AND2
+-- Compiling architecture rtl of AND2
+
+} {} {}} /h/tpatro01/ee126/assignment1/mux64_tb.vhd {2 {vcom -work work1 -2002 -explicit -vopt -stats=none /h/tpatro01/ee126/assignment1/mux64_tb.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mux64_tb
+-- Compiling architecture behave of mux64_tb
+** Warning: /h/tpatro01/ee126/assignment1/mux64_tb.vhd(35): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: /h/tpatro01/ee126/assignment1/mux64_tb.vhd(41): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+
+} {} {}} /h/tpatro01/ee126/assignment1/signextend.vhd {0 {vcom -work work1 -2002 -explicit -vopt -stats=none /h/tpatro01/ee126/assignment1/signextend.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity SignExtend
+-- Compiling architecture rtl of SignExtend
+** Error: /h/tpatro01/ee126/assignment1/signextend.vhd(14): (vcom-1136) Unknown identifier "resize".
+** Note: /h/tpatro01/ee126/assignment1/signextend.vhd(15): VHDL Compiler exiting
+
+} {8.0 9.0} {}} /h/tpatro01/ee126/assignment1/and2_tb.vhd {2 {vcom -work work1 -2002 -explicit -vopt -stats=none /h/tpatro01/ee126/assignment1/and2_tb.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity and2_tb
+-- Compiling architecture behave of and2_tb
+** Warning: /h/tpatro01/ee126/assignment1/and2_tb.vhd(33): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: /h/tpatro01/ee126/assignment1/and2_tb.vhd(38): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: /h/tpatro01/ee126/assignment1/and2_tb.vhd(43): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: /h/tpatro01/ee126/assignment1/and2_tb.vhd(48): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+
+} {} {}} /h/tpatro01/ee126/assignment1/pc.vhd {1 {vcom -work work1 -2002 -explicit -vopt -stats=none /h/tpatro01/ee126/assignment1/pc.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity PC
+-- Compiling architecture rtl of pc
+
+} {} {}} /h/tpatro01/ee126/assignment1/shiftleft2.vhd {1 {vcom -work work1 -2002 -explicit -vopt -stats=none /h/tpatro01/ee126/assignment1/shiftleft2.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity ShiftLeft2
+-- Compiling architecture rtl of ShiftLeft2
+
+} {} {}} /h/tpatro01/ee126/assignment1/mux64.vhd {1 {vcom -work work1 -2002 -explicit -vopt -stats=none /h/tpatro01/ee126/assignment1/mux64.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity MUX64
+-- Compiling architecture rtl of MUX64
+
+} {} {}} /h/tpatro01/ee126/assignment1/signextend_tb.vhd {2 {vcom -work work1 -2002 -explicit -vopt -stats=none /h/tpatro01/ee126/assignment1/signextend_tb.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity SignExtend_tb
+-- Compiling architecture behave of SignExtend_tb
+** Warning: /h/tpatro01/ee126/assignment1/signextend_tb.vhd(29): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: /h/tpatro01/ee126/assignment1/signextend_tb.vhd(33): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: /h/tpatro01/ee126/assignment1/signextend_tb.vhd(35): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: /h/tpatro01/ee126/assignment1/signextend_tb.vhd(39): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: /h/tpatro01/ee126/assignment1/signextend_tb.vhd(41): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: /h/tpatro01/ee126/assignment1/signextend_tb.vhd(44): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: /h/tpatro01/ee126/assignment1/signextend_tb.vhd(46): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: /h/tpatro01/ee126/assignment1/signextend_tb.vhd(50): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+
+} {} {}} /h/tpatro01/ee126/assignment1/mux5.vhd {1 {vcom -work work1 -2002 -explicit -vopt -stats=none /h/tpatro01/ee126/assignment1/mux5.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity MUX5
+-- Compiling architecture rtl of MUX5
+
+} {} {}} /h/tpatro01/ee126/assignment1/pc_tb.vhd {2 {vcom -work work1 -2002 -explicit -vopt -stats=none /h/tpatro01/ee126/assignment1/pc_tb.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity pc_tb
+-- Compiling architecture behave of pc_tb
+** Warning: /h/tpatro01/ee126/assignment1/pc_tb.vhd(41): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: /h/tpatro01/ee126/assignment1/pc_tb.vhd(47): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: /h/tpatro01/ee126/assignment1/pc_tb.vhd(52): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: /h/tpatro01/ee126/assignment1/pc_tb.vhd(57): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: /h/tpatro01/ee126/assignment1/pc_tb.vhd(61): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: /h/tpatro01/ee126/assignment1/pc_tb.vhd(64): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: /h/tpatro01/ee126/assignment1/pc_tb.vhd(69): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: /h/tpatro01/ee126/assignment1/pc_tb.vhd(74): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+
+} {} {}} /h/tpatro01/ee126/assignment1/shiftleft2_tb.vhd {2 {vcom -work work1 -2002 -explicit -vopt -stats=none /h/tpatro01/ee126/assignment1/shiftleft2_tb.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity ShiftLeft2_tb
+-- Compiling architecture behave of ShiftLeft2_tb
+** Warning: /h/tpatro01/ee126/assignment1/shiftleft2_tb.vhd(30): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: /h/tpatro01/ee126/assignment1/shiftleft2_tb.vhd(33): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: /h/tpatro01/ee126/assignment1/shiftleft2_tb.vhd(39): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+
+} {} {}} /h/tpatro01/ee126/assignment1/mux5_tb.vhd {2 {vcom -work work1 -2002 -explicit -vopt -stats=none /h/tpatro01/ee126/assignment1/mux5_tb.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mux5_tb
+-- Compiling architecture behave of mux5_tb
+** Warning: /h/tpatro01/ee126/assignment1/mux5_tb.vhd(35): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: /h/tpatro01/ee126/assignment1/mux5_tb.vhd(40): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+
+} {} {}}

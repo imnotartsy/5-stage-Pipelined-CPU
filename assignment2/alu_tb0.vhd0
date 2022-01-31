@@ -1,0 +1,94 @@
+library ieee;
+use ieee.std_logic_1164.all;
+-- use IEEE.numeric_std.ALL; -- to_integer and unsigned
+
+entity alu_tb is
+end alu_tb;
+
+architecture behave of alu_tb is
+    component ALU
+    port(
+        in0       : in     STD_LOGIC_VECTOR(63 downto 0);
+        in1       : in     STD_LOGIC_VECTOR(63 downto 0);
+        operation : in     STD_LOGIC_VECTOR(3 downto 0);
+        result    : buffer STD_LOGIC_VECTOR(63 downto 0);
+        zero      : buffer STD_LOGIC;
+        overflow  : buffer STD_LOGIC
+    );
+    end component;
+
+    -- Add signals
+    signal in0 : std_logic_vector(63 downto 0) := "0000000000000000000000000000000000000000000000000000000000000000";
+    signal in1 : std_logic_vector(63 downto 0) := "1111111111111111111111111111111111111111111111111111111111111111";
+    signal op : std_logic_vector(3 downto 0) := "0000";
+    signal out0 : std_logic_vector(63 downto 0);
+    signal z : std_logic;
+    signal ov : std_logic;
+
+    
+begin
+    alu_inst: ALU
+    -- Update Port map
+    port map(
+        in0 => in0,
+        in1 => in1,
+        operation => op,
+        result => out0,
+        zero => z,
+        overflow => ov
+    );
+
+
+  --  Testbench with asserts
+  process
+  type pattern_type is record
+    --  The inputs of the adder.
+    i0, i1 : std_logic_vector(63 downto 0);
+    op : std_logic_vector(3 downto 0);
+    --  The expected outputs of the adder.
+    o0 : std_logic;
+    -- o0, z0, ov0 : std_logic;
+  end record;
+
+  --  The patterns to apply.
+  type pattern_array is array (natural range <>) of pattern_type;
+  constant patterns : pattern_array :=
+    ("0000000000000000000000000000000000000000000000000000000000000000", "0000000000000000000000000000000000000000000000000000000000000000", "0000", "0000000000000000000000000000000000000000000000000000000000000000"),
+    ("0000000000000000000000000000000000000000000000000000000000000000", "0000000000000000000000000000000000000000000000000000000000000000", "0000", "0000000000000000000000000000000000000000000000000000000000000000")
+    --  ('0', '0', '1', '1', '0'),
+    --  ('0', '1', '0', '1', '0'),
+    --  ('0', '1', '1', '0', '1'),
+    --  ('1', '0', '0', '1', '0'),
+    --  ('1', '0', '1', '0', '1'),
+    --  ('1', '1', '0', '0', '1'),
+    --  ('1', '1', '1', '1', '1')
+    );
+    begin
+    --  Check each pattern.
+    for i in patterns'range loop
+        --  Set the inputs.
+        --i0 <= to_stdlogicvector(patterns(i).i0);
+        in0 <= patterns(i).i0;
+        in1 <= patterns(i).i1;
+        op <= patterns(i).op;
+        --  Wait for the results.
+        wait for 1 ns;
+        --  Check the outputs.
+        assert out0 = patterns(i).o0
+        report "bad sum value" severity error;
+        -- assert co = patterns(i).co
+        -- report "bad carry out value" severity error;
+    end loop;
+    assert false report "end of test" severity note;
+    --  Wait forever; this will finish the simulation.
+    wait;
+    end process;
+
+end behave;
+-- end architecture;
+
+
+
+-- vcom -quiet -2008 alu.vhd alu_tb.vhd
+-- vsim -quiet -c work.alu_tb -do "log -r /*; run 500ns; exit" -wlf alu.wlf
+-- wlf2vcd alu.wlf -o alu.vcd

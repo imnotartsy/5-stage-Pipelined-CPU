@@ -1,0 +1,21 @@
+compilation command:
+
+vcom -quiet -2008 *.vhd tb/*.vhd
+
+
+simulation + vcd generation:
+
+vsim -quiet -c work.pipelinedcpu0_tb -do "log -r /*; run 500ns; exit" -wlf pipelinedcpu0.wlf &&  wlf2vcd pipelinedcpu0.wlf -o pipelinedcpu0.vcd
+
+vsim -quiet -c work.singlecyclecpu_tb -do "log -r /*; run 500ns; exit" -wlf singlecyclecpu.wlf &&  wlf2vcd singlecyclecpu.wlf -o singlecyclecpu.vcd
+
+
+
+signals to pipeline (in and out)
+- on rising edge, pass in and out
+
+
+
+
+vcom -quiet -2008 *.vhd tb/*.vhd imem/imem_p1.vhd
+vsim -quiet -c work.singlecyclecpu_tb -do "log -r /*; run 500ns; exit" -wlf vcd/singlecyclecpu.wlf && wlf2vcd vcd/singlecyclecpu.wlf -o vcd/singlecyclecpu.vcd

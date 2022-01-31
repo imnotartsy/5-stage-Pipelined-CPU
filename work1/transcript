@@ -1,0 +1,38 @@
+# ** Warning: License feature 'msimviewer' will expire in 13 days.
+# reading modelsim.ini
+# Loading project a2
+# reading modelsim.ini
+# reading /usr/cots/mentor/questa/questasim/linux_x86_64/../modelsim.ini
+# Loading project assignment3
+dataset reload -f
+# Dataset not found: 
+# Compile of dmem_le.vhd was successful.
+# Compile of imem_comp.vhd was successful.
+# Compile of imem_ldstr.vhd was successful.
+# Compile of imem_p1.vhd was successful.
+# Compile of singlecyclecpu.vhd failed with 7 errors.
+# Compile of singlecyclecpu_tb.vhd failed with 1 errors.
+# 6 compiles, 2 failed with 8 errors.
+dataset reload -f
+# Dataset not found: 
+# Compile of dmem_le.vhd was successful.
+# Compile of imem_comp.vhd was successful.
+# Compile of imem_ldstr.vhd was successful.
+# Compile of imem_p1.vhd was successful.
+# Compile of singlecyclecpu.vhd was successful.
+# Compile of singlecyclecpu_tb.vhd failed with 1 errors.
+# 6 compiles, 1 failed with 1 error.
+# Compile of dmem_le.vhd was successful.
+# Compile of imem_comp.vhd was successful.
+# Compile of imem_ldstr.vhd was successful.
+# Compile of imem_p1.vhd was successful.
+# Compile of singlecyclecpu.vhd failed with 1 errors.
+# Compile of singlecyclecpu_tb.vhd failed with 1 errors.
+# 6 compiles, 2 failed with 2 errors.
+# Compile of dmem_le.vhd was successful.
+# Compile of imem_comp.vhd was successful.
+# Compile of imem_ldstr.vhd was successful.
+# Compile of imem_p1.vhd was successful.
+# Compile of singlecyclecpu.vhd failed with 1 errors.
+# Compile of singlecyclecpu_tb.vhd failed with 1 errors.
+# 6 compiles, 2 failed with 2 errors.

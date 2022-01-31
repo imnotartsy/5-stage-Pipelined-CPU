@@ -1,0 +1,134 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/h/tpatro01/ee126/assignment3
+Edmem
+Z1 w1634526072
+Z2 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+R0
+Z5 8/h/tpatro01/ee126/assignment3/dmem_le.vhd
+Z6 F/h/tpatro01/ee126/assignment3/dmem_le.vhd
+l0
+L5
+VC6V9n:a9;cgA_eom<iW@_1
+!s100 BP52mP<nXLg3EBI6l<0>32
+Z7 OL;C;10.7c;67
+32
+Z8 !s110 1635034602
+!i10b 1
+Z9 !s108 1635034602.000000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|/h/tpatro01/ee126/assignment3/dmem_le.vhd|
+Z11 !s107 /h/tpatro01/ee126/assignment3/dmem_le.vhd|
+!i113 0
+Z12 o-work work -2002 -explicit
+Z13 tExplicit 1 CvgOpt 0
+Abehavioral
+R2
+R3
+R4
+DEx4 work 4 dmem 0 22 C6V9n:a9;cgA_eom<iW@_1
+l26
+L23
+V]>8X6VRK`6K[Q2TA4jcI63
+!s100 E?:1W[[fkDXgFUnc5OnGo2
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 0
+R12
+R13
+Eimem
+R1
+R2
+R3
+R4
+R0
+Z14 8/h/tpatro01/ee126/assignment3/imem_p1.vhd
+Z15 F/h/tpatro01/ee126/assignment3/imem_p1.vhd
+l0
+L5
+VAUX6UZ@0a:4UK_e_@8RV12
+!s100 ZeGJfS9C4Ah<iLk3HJAM>3
+R7
+32
+Z16 !s110 1635034603
+!i10b 1
+Z17 !s108 1635034603.000000
+Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|/h/tpatro01/ee126/assignment3/imem_p1.vhd|
+Z19 !s107 /h/tpatro01/ee126/assignment3/imem_p1.vhd|
+!i113 0
+R12
+R13
+Abehavioral
+R2
+R3
+R4
+DEx4 work 4 imem 0 22 AUX6UZ@0a:4UK_e_@8RV12
+l20
+L16
+V3IeVaZna9NET;MD^Z9TSR3
+!s100 bE9ma0h@l@mkmT0k;Xc0R1
+R7
+32
+R16
+!i10b 1
+R17
+R18
+R19
+!i113 0
+R12
+R13
+Esinglecyclecpu
+w1635027044
+R3
+R4
+R0
+8/h/tpatro01/ee126/assignment3/singlecyclecpu_tb.vhd
+F/h/tpatro01/ee126/assignment3/singlecyclecpu_tb.vhd
+l0
+L4
+V3S3`M>h`2>CfXRA;zQMPU0
+!s100 [l2NKPhge_L23PjBCZNFk1
+R7
+32
+!s110 1635034604
+!i10b 1
+R17
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|/h/tpatro01/ee126/assignment3/singlecyclecpu_tb.vhd|
+!s107 /h/tpatro01/ee126/assignment3/singlecyclecpu_tb.vhd|
+!i113 0
+R12
+R13
+Artl
+R3
+R4
+DEx4 work 14 singlecyclecpu 0 22 dUEl@n5HOfjQEYemVLnQ?0
+l21
+L20
+VR]6GzBOIaUnzoXLl=k2mz3
+!s100 jlRcmEIaL:n<FI<ZEMf>`0
+R7
+32
+R16
+!i10b 1
+R17
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|/h/tpatro01/ee126/assignment3/singlecyclecpu.vhd|
+!s107 /h/tpatro01/ee126/assignment3/singlecyclecpu.vhd|
+!i113 0
+R12
+R13
+F/h/tpatro01/ee126/assignment3/singlecyclecpu.vhd
+w1635027300
+8/h/tpatro01/ee126/assignment3/singlecyclecpu.vhd

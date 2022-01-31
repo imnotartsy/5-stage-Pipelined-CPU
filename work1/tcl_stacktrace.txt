@@ -1,0 +1,13 @@
+Fri Sep 24 18:55:49 EDT 2021
+Trace back: can't read "_clients(.main_pane.wave8)": no such element in array
+    while executing
+"set co $_clients($client)"
+    (object "::.bookmarkmgr" method "::vsimwidgets::bookmarkmgr::_client_restore" body line 4)
+    invoked from within
+"::.bookmarkmgr _client_restore .main_pane.wave8"
+    (in namespace inscope "::vsimwidgets::bookmarkmgr" script line 1)
+    invoked from within
+"namespace inscope ::vsimwidgets::bookmarkmgr {::.bookmarkmgr _client_restore .main_pane.wave8}"
+    ("after" script)
+  <2:/usr/cots/mentor/questa/questasim/linux_x86_64/tk8.6/bgerror.tcl:106: ::tkerror {can't read "_clients(.main_pane.wave8)": no such element in array}
+  <1:eval:1: ::tk::dialog::error::bgerror {can't read "_clients(.main_pane.wave8)": no such element in array}

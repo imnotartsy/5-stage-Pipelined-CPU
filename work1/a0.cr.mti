@@ -1,0 +1,14 @@
+/h/tpatro01/ee126/assignment0/and2_tb.vhd {0 {vcom -work work -2002 -explicit -vopt -stats=none /h/tpatro01/ee126/assignment0/and2_tb.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity and2_tb
+-- Compiling architecture and2_tb of and2_tb
+** Error (suppressible): /h/tpatro01/ee126/assignment0/and2_tb.vhd(21): (vcom-1141) Identifier "and2" does not identify a component declaration.
+** Warning: /h/tpatro01/ee126/assignment0/and2_tb.vhd(33): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: /h/tpatro01/ee126/assignment0/and2_tb.vhd(37): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: /h/tpatro01/ee126/assignment0/and2_tb.vhd(41): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Note: /h/tpatro01/ee126/assignment0/and2_tb.vhd(48): VHDL Compiler exiting
+
+} {} {}}

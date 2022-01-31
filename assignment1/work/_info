@@ -1,0 +1,185 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/h/tpatro01/ee126/assignment1
+T_opt
+!s110 1633505517
+VHQ?85OO?cO[829hGPNVb=2
+04 13 6 work shiftleft2_tb behave 1
+=1-005056000001-615d50ec-ece43-1bd3
+Z1 o-quiet -auto_acc_if_foreign -work work
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;10.7c;67
+T_opt1
+!s110 1633505429
+Vd>0jJNzfWTZb1jjcUmmC31
+04 5 6 work pc_tb behave 1
+=1-005056000001-615d5095-3bf37-1a7d
+R1
+R2
+n@_opt1
+R3
+R0
+Epc
+Z4 w1632541514
+Z5 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z6 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+R0
+Z7 8pc.vhd
+Z8 Fpc.vhd
+l0
+L4
+V@DQLWE``z[5bl7L1;F5YW0
+!s100 nZRFD7PFH9K[6dYFOCm8N1
+Z9 OL;C;10.7c;67
+33
+Z10 !s110 1633505413
+!i10b 1
+Z11 !s108 1633505413.000000
+Z12 !s90 -quiet|-2008|pc.vhd|pc_tb.vhd|
+Z13 !s107 pc_tb.vhd|pc.vhd|
+!i113 0
+Z14 o-quiet -2008
+Z15 tExplicit 1 CvgOpt 0
+Artl
+R5
+R6
+DEx4 work 2 pc 0 22 @DQLWE``z[5bl7L1;F5YW0
+l16
+L15
+V`5LjT7n1VB_[;U=XED?6e0
+!s100 LEl9=A`DoXIBa_kdN5=fY2
+R9
+33
+R10
+!i10b 1
+R11
+R12
+R13
+!i113 0
+R14
+R15
+Epc_tb
+Z16 w1632540827
+R5
+R6
+R0
+Z17 8pc_tb.vhd
+Z18 Fpc_tb.vhd
+l0
+L4
+V?j75B[8az4TRnDT;e>C850
+!s100 TCPAkJ8WQXkD^0T0U;gOD3
+R9
+33
+R10
+!i10b 1
+R11
+R12
+R13
+!i113 0
+R14
+R15
+Abehave
+R5
+R6
+DEx4 work 5 pc_tb 0 22 ?j75B[8az4TRnDT;e>C850
+l25
+L7
+V`WnHVDEKcGmKe[lPRR^A32
+!s100 m0<>MFm4S8Xl3Ue4m::R70
+R9
+33
+R10
+!i10b 1
+R11
+R12
+R13
+!i113 0
+R14
+R15
+Eshiftleft2
+Z19 w1633505486
+R5
+R6
+R0
+Z20 8shiftleft2.vhd
+Z21 Fshiftleft2.vhd
+l0
+L4
+V<UCH8ACZBJVib@F0`hlQ63
+!s100 iJel@3zV^f_l5WGEFV3o`0
+R9
+33
+Z22 !s110 1633505512
+!i10b 1
+Z23 !s108 1633505512.000000
+Z24 !s90 -quiet|-2008|shiftleft2.vhd|shiftleft2_tb.vhd|
+Z25 !s107 shiftleft2_tb.vhd|shiftleft2.vhd|
+!i113 0
+R14
+R15
+Artl
+R5
+R6
+DEx4 work 10 shiftleft2 0 22 <UCH8ACZBJVib@F0`hlQ63
+l12
+L11
+V?2]aLLo>>?Z387A4_Bogh2
+!s100 DgD0S?6Rd:oBB9BkZF12^1
+R9
+33
+R22
+!i10b 1
+R23
+R24
+R25
+!i113 0
+R14
+R15
+Eshiftleft2_tb
+Z26 w1633326671
+R5
+R6
+R0
+Z27 8shiftleft2_tb.vhd
+Z28 Fshiftleft2_tb.vhd
+l0
+L4
+VnBMPe>:0DSF9WB<RIljmb0
+!s100 dZ7zzZoZkk`b=l?2WabkA3
+R9
+33
+R22
+!i10b 1
+R23
+R24
+R25
+!i113 0
+R14
+R15
+Abehave
+R5
+R6
+DEx4 work 13 shiftleft2_tb 0 22 nBMPe>:0DSF9WB<RIljmb0
+l18
+L7
+Vk59SXT;oNiA^081]7=:0F0
+!s100 XP27<@d?1oa^UcaJ>84nZ2
+R9
+33
+R22
+!i10b 1
+R23
+R24
+R25
+!i113 0
+R14
+R15

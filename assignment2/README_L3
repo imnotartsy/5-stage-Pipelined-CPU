@@ -1,0 +1,3 @@
+compilation command: vcom -quiet -2008 *.vhd imem/imem_ldstr.vhd
+simulation + vcd generation: vsim -quiet -c work.singlecyclecpu_tb -do "log -r /*; run 500ns; exit" -wlf singlecyclecpu.wlf &&  wlf2vcd singlecyclecpu.wlf -o singlecyclecpu.vcd
+

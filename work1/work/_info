@@ -1,0 +1,136 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/h/tpatro01/ee126
+T_opt
+!s110 1631284674
+VJzU_ekAa[Fl]Ka;G5G3FF3
+04 4 5 work and2 behv1 1
+=1-005056000007-613b6dc2-3c234-6352
+Z1 o-quiet -auto_acc_if_foreign -work work
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;10.7c;67
+R0
+T_opt1
+!s110 1631285598
+V2Z5kj=I]iABl5g4g8Mjg63
+Z4 04 7 6 work and2_tb behave 1
+=1-005056000007-613b715d-d74b8-7f64
+R1
+R2
+n@_opt1
+R3
+R0
+T_opt2
+!s110 1631585238
+VXB0_nHSM_2TjS4BZGiFoa2
+R4
+=1-005056000009-614003d6-d265-3b45
+o-quiet -auto_acc_if_foreign -work work +acc
+R2
+n@_opt2
+R3
+Eand2
+Z5 w1631285165
+Z6 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z7 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+R0
+Z8 8/h/tpatro01/ee126/assignment0/and2.vhd
+Z9 F/h/tpatro01/ee126/assignment0/and2.vhd
+l0
+L4
+VK9F7Hk`PkGY>Ym70BloRM2
+!s100 UJlRa49lAO3=oZbij6hDl1
+Z10 OL;C;10.7c;67
+32
+Z11 !s110 1631585193
+!i10b 1
+Z12 !s108 1631585193.000000
+Z13 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|/h/tpatro01/ee126/assignment0/and2.vhd|
+Z14 !s107 /h/tpatro01/ee126/assignment0/and2.vhd|
+!i113 0
+Z15 o-work work -2002 -explicit
+Z16 tExplicit 1 CvgOpt 0
+Artl
+R6
+R7
+Z17 DEx4 work 4 and2 0 22 K9F7Hk`PkGY>Ym70BloRM2
+l13
+L12
+VBac2OFn6BgdLzLl9:H1RI1
+!s100 iSkRDNOb?LeVF8]Vd5I[?3
+R10
+32
+R11
+!i10b 1
+R12
+R13
+R14
+!i113 0
+R15
+R16
+Abehv1
+R6
+R7
+R17
+l13
+L12
+V``?gd]f3d_iKmEjUhh?jB1
+!s100 ZRI:5NLAe]IbU];SRk;WR2
+R10
+32
+!s110 1631284574
+!i10b 1
+!s108 1631284574.000000
+R13
+R14
+!i113 0
+R15
+R16
+w1631284310
+Eand2_tb
+Z18 w1631285537
+R6
+R7
+R0
+Z19 8/h/tpatro01/ee126/assignment0/and2_tb.vhd
+Z20 F/h/tpatro01/ee126/assignment0/and2_tb.vhd
+l0
+L4
+VE1kn]Di^z3N6IAHI46oC@0
+!s100 A?;mL389k3fKhK6z``;Q]1
+R10
+32
+R11
+!i10b 1
+R12
+Z21 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|/h/tpatro01/ee126/assignment0/and2_tb.vhd|
+Z22 !s107 /h/tpatro01/ee126/assignment0/and2_tb.vhd|
+!i113 0
+R15
+R16
+Abehave
+R6
+R7
+DEx4 work 7 and2_tb 0 22 E1kn]Di^z3N6IAHI46oC@0
+l20
+L7
+V=I9?R8ERFRUK^ih4z?08e1
+!s100 G8S^^S`Fk<FRY49W`RV1B2
+R10
+32
+R11
+!i10b 1
+R12
+R21
+R22
+!i113 0
+R15
+R16

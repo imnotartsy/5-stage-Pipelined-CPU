@@ -1,0 +1,21 @@
+library ieee;
+use ieee.std_logic_1164.all;
+
+entity ShiftLeft2 is -- Shifts the input by 2 bits
+port(
+     x : in  STD_LOGIC_VECTOR(63 downto 0);
+     y : out STD_LOGIC_VECTOR(63 downto 0) -- x << 2
+);
+end ShiftLeft2;
+
+architecture rtl of ShiftLeft2 is
+
+begin
+
+     process is
+     begin
+         y(63 downto 2) <= x(61 downto 0);
+	 y(1 downto 0) <= x(63 downto 62);
+     end process;     
+
+end architecture;

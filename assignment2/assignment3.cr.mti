@@ -1,0 +1,47 @@
+/h/tpatro01/ee126/assignment3/singlecyclecpu_tb.vhd {0 {vcom -work work -2002 -explicit -vopt -stats=none /h/tpatro01/ee126/assignment3/singlecyclecpu_tb.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity SingleCycleCPU
+-- Compiling architecture behave of SingleCycleCPU_tb
+** Error: (vcom-11) Could not find work.singlecyclecpu_tb.
+** Note: /h/tpatro01/ee126/assignment3/singlecyclecpu_tb.vhd(7): VHDL Compiler exiting
+
+} {8.0 9.0} {}} /h/tpatro01/ee126/assignment3/dmem_le.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none /h/tpatro01/ee126/assignment3/dmem_le.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity DMEM
+-- Compiling architecture behavioral of DMEM
+
+} {} {}} /h/tpatro01/ee126/assignment3/imem_p1.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none /h/tpatro01/ee126/assignment3/imem_p1.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity IMEM
+-- Compiling architecture behavioral of IMEM
+
+} {} {}} /h/tpatro01/ee126/assignment3/imem_ldstr.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none /h/tpatro01/ee126/assignment3/imem_ldstr.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity IMEM
+-- Compiling architecture behavioral of IMEM
+
+} {} {}} /h/tpatro01/ee126/assignment3/imem_comp.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none /h/tpatro01/ee126/assignment3/imem_comp.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity IMEM
+-- Compiling architecture behavioral of IMEM
+
+} {} {}}

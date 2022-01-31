@@ -1,0 +1,745 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/h/tpatro01/ee126
+T_opt
+!s110 1632493843
+Vb1>G]9mg8hUPL8MID^6oP1
+04 7 6 work and2_tb behave 1
+=1-005056000003-614de113-61c28-78e3
+Z1 o-quiet -auto_acc_if_foreign -work work1 +acc
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;10.7c;67
+R0
+T_opt1
+!s110 1632507048
+V_F>R3_jnC<5SPFMdYlMfe2
+04 13 6 work shiftleft2_tb behave 1
+=2-005056000007-614e14a7-d5115-239
+R1
+R2
+n@_opt1
+R3
+T_opt2
+!s110 1632496528
+VbMEbSomh06@^dhP=@N5_<0
+04 5 6 work pc_tb behave 1
+=1-005056000003-614deb90-1cfa9-4e51
+R1
+R2
+n@_opt2
+R3
+R0
+Eand2
+Z4 w1632160218
+Z5 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z6 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+R0
+Z7 8/h/tpatro01/ee126/assignment1/and2.vhd
+Z8 F/h/tpatro01/ee126/assignment1/and2.vhd
+l0
+L4
+V=V2_BY=QiT@ZKJ]O]LgLS3
+!s100 UJlRa49lAO3=oZbij6hDl1
+Z9 OL;C;10.7c;67
+32
+Z10 !s110 1632506531
+!i10b 1
+Z11 !s108 1632506531.000000
+Z12 !s90 -reportprogress|300|-work|work1|-2002|-explicit|-vopt|-stats=none|/h/tpatro01/ee126/assignment1/and2.vhd|
+Z13 !s107 /h/tpatro01/ee126/assignment1/and2.vhd|
+!i113 0
+Z14 o-work work1 -2002 -explicit
+Z15 tExplicit 1 CvgOpt 0
+Artl
+R5
+R6
+DEx4 work 4 and2 0 22 =V2_BY=QiT@ZKJ]O]LgLS3
+l13
+L12
+VdPP[fEoF^lhPhBEkj@P4c2
+!s100 iSkRDNOb?LeVF8]Vd5I[?3
+R9
+32
+R10
+!i10b 1
+R11
+R12
+R13
+!i113 0
+R14
+R15
+Eand2_tb
+Z16 w1632489522
+R5
+R6
+R0
+Z17 8/h/tpatro01/ee126/assignment1/and2_tb.vhd
+Z18 F/h/tpatro01/ee126/assignment1/and2_tb.vhd
+l0
+L4
+VoG`jhKF?>g2^<PHY;@NY01
+!s100 A?;mL389k3fKhK6z``;Q]1
+R9
+32
+R10
+!i10b 1
+R11
+Z19 !s90 -reportprogress|300|-work|work1|-2002|-explicit|-vopt|-stats=none|/h/tpatro01/ee126/assignment1/and2_tb.vhd|
+Z20 !s107 /h/tpatro01/ee126/assignment1/and2_tb.vhd|
+!i113 0
+R14
+R15
+Abehave
+R5
+R6
+DEx4 work 7 and2_tb 0 22 oG`jhKF?>g2^<PHY;@NY01
+l20
+L7
+V]8a[=SOQmMJFZN[M^cPo10
+!s100 ?Jkog7F:gTiPDWXb7mbn<0
+R9
+32
+R10
+!i10b 1
+R11
+R19
+R20
+!i113 0
+R14
+R15
+Emux32
+Z21 w1632160858
+R5
+R6
+R0
+Z22 8/h/tpatro01/ee126/assignment1/mux64.vhd
+Z23 F/h/tpatro01/ee126/assignment1/mux64.vhd
+l0
+L5
+V9aXkW3d6dNI[Cn6`@Y4dL0
+!s100 Gd_Y3V`fGf7Rk9fG^nkHM0
+R9
+32
+Z24 !s110 1632490025
+!i10b 1
+Z25 !s108 1632490025.000000
+Z26 !s90 -reportprogress|300|-work|work1|-2002|-explicit|-vopt|-stats=none|/h/tpatro01/ee126/assignment1/mux64.vhd|
+Z27 !s107 /h/tpatro01/ee126/assignment1/mux64.vhd|
+!i113 0
+R14
+R15
+Artl
+R5
+R6
+DEx4 work 5 mux32 0 22 9aXkW3d6dNI[Cn6`@Y4dL0
+l15
+L14
+V]2L1>f[^o]NQLFaeEiOBC1
+!s100 ZMP_G?0l;aFO:[Iz<HT1W2
+R9
+32
+R24
+!i10b 1
+R25
+R26
+R27
+!i113 0
+R14
+R15
+Emux5
+Z28 w1632160856
+R5
+R6
+R0
+Z29 8/h/tpatro01/ee126/assignment1/mux5.vhd
+Z30 F/h/tpatro01/ee126/assignment1/mux5.vhd
+l0
+L5
+VLaPEni6j3c]0cU9G09JQO2
+!s100 4oKXV^7EH_WOW9E846zLo1
+R9
+32
+R10
+!i10b 1
+R11
+Z31 !s90 -reportprogress|300|-work|work1|-2002|-explicit|-vopt|-stats=none|/h/tpatro01/ee126/assignment1/mux5.vhd|
+Z32 !s107 /h/tpatro01/ee126/assignment1/mux5.vhd|
+!i113 0
+R14
+R15
+Artl
+R5
+R6
+DEx4 work 4 mux5 0 22 LaPEni6j3c]0cU9G09JQO2
+l15
+L14
+VnBDd4X1aOX6:3kW;gFNkk1
+!s100 jWPgGj6F=8TaiZczVlQ]>1
+R9
+32
+R10
+!i10b 1
+R11
+R31
+R32
+!i113 0
+R14
+R15
+Emux5_tb
+Z33 w1632489786
+R5
+R6
+R0
+Z34 8/h/tpatro01/ee126/assignment1/mux5_tb.vhd
+Z35 F/h/tpatro01/ee126/assignment1/mux5_tb.vhd
+l0
+L4
+VP^M2=Yz5eEc`X:6CZ`J;@0
+!s100 J`V^7zAbTF>>3K3OPb5Gb3
+R9
+32
+Z36 !s110 1632506532
+!i10b 1
+Z37 !s108 1632506532.000000
+Z38 !s90 -reportprogress|300|-work|work1|-2002|-explicit|-vopt|-stats=none|/h/tpatro01/ee126/assignment1/mux5_tb.vhd|
+Z39 !s107 /h/tpatro01/ee126/assignment1/mux5_tb.vhd|
+!i113 0
+R14
+R15
+Abehave
+R5
+R6
+DEx4 work 7 mux5_tb 0 22 P^M2=Yz5eEc`X:6CZ`J;@0
+l22
+L7
+VTVfSfJC=339Ka>e30_jCB2
+!s100 CgQUJRdjezV_BzmX4UfAa1
+R9
+32
+R36
+!i10b 1
+R37
+R38
+R39
+!i113 0
+R14
+R15
+Emux64
+Z40 w1632490125
+R5
+R6
+R0
+R22
+R23
+l0
+L5
+Ve?DJY>?P3J[ZFl6AhhPZl1
+!s100 ?9g=Q@?kR2n8aZ^Cl>3F^0
+R9
+32
+R36
+!i10b 1
+R37
+R26
+R27
+!i113 0
+R14
+R15
+Artl
+R5
+R6
+DEx4 work 5 mux64 0 22 e?DJY>?P3J[ZFl6AhhPZl1
+l15
+L14
+V_lzPRVM7mn<f]jTOShZAC0
+!s100 DWiZ^l62m`bFARJ;cabJ02
+R9
+32
+R36
+!i10b 1
+R37
+R26
+R27
+!i113 0
+R14
+R15
+Emux64_tb
+Z41 w1632490015
+R5
+R6
+R0
+Z42 8/h/tpatro01/ee126/assignment1/mux64_tb.vhd
+Z43 F/h/tpatro01/ee126/assignment1/mux64_tb.vhd
+l0
+L4
+V_0zEAz:`^ne:aA^b58VgP2
+!s100 cc5XZKMafo1fg=g;9XNF51
+R9
+32
+R36
+!i10b 1
+R37
+Z44 !s90 -reportprogress|300|-work|work1|-2002|-explicit|-vopt|-stats=none|/h/tpatro01/ee126/assignment1/mux64_tb.vhd|
+Z45 !s107 /h/tpatro01/ee126/assignment1/mux64_tb.vhd|
+!i113 0
+R14
+R15
+Abehave
+R5
+R6
+DEx4 work 8 mux64_tb 0 22 _0zEAz:`^ne:aA^b58VgP2
+l22
+L7
+VW<D@0aQKaTVe1JETG00011
+!s100 ]XH3o?MW?c2SFn9mY0lOZ1
+R9
+32
+R36
+!i10b 1
+R37
+R44
+R45
+!i113 0
+R14
+R15
+Epc
+Z46 w1632496149
+R5
+R6
+R0
+Z47 8/h/tpatro01/ee126/assignment1/pc.vhd
+Z48 F/h/tpatro01/ee126/assignment1/pc.vhd
+l0
+L4
+VzN3k?8M_Wji=?`G7^b9PF3
+!s100 nZRFD7PFH9K[6dYFOCm8N1
+R9
+32
+R36
+!i10b 1
+R37
+Z49 !s90 -reportprogress|300|-work|work1|-2002|-explicit|-vopt|-stats=none|/h/tpatro01/ee126/assignment1/pc.vhd|
+Z50 !s107 /h/tpatro01/ee126/assignment1/pc.vhd|
+!i113 0
+R14
+R15
+Artl
+R5
+R6
+DEx4 work 2 pc 0 22 zN3k?8M_Wji=?`G7^b9PF3
+l16
+L15
+VF]5@V;^@Dica1bPYZIja51
+!s100 =]FIMcOT_M5cjz`YQUO8k2
+R9
+32
+R36
+!i10b 1
+R37
+R49
+R50
+!i113 0
+R14
+R15
+Epc_tb
+Z51 w1632496479
+R5
+R6
+R0
+Z52 8/h/tpatro01/ee126/assignment1/pc_tb.vhd
+Z53 F/h/tpatro01/ee126/assignment1/pc_tb.vhd
+l0
+L4
+VE0n91@1ekCdANL_WCgV?;2
+!s100 TCPAkJ8WQXkD^0T0U;gOD3
+R9
+32
+Z54 !s110 1632506533
+!i10b 1
+Z55 !s108 1632506533.000000
+Z56 !s90 -reportprogress|300|-work|work1|-2002|-explicit|-vopt|-stats=none|/h/tpatro01/ee126/assignment1/pc_tb.vhd|
+Z57 !s107 /h/tpatro01/ee126/assignment1/pc_tb.vhd|
+!i113 0
+R14
+R15
+Abehave
+R5
+R6
+DEx4 work 5 pc_tb 0 22 E0n91@1ekCdANL_WCgV?;2
+l25
+L7
+V=Z3gYHoF]5^iSLIA1<hjc3
+!s100 YLRW>MP<M>=AM0l_hQo;?2
+R9
+32
+R54
+!i10b 1
+R55
+R56
+R57
+!i113 0
+R14
+R15
+Eshiftleft2
+Z58 w1632506496
+R5
+R6
+R0
+Z59 8/h/tpatro01/ee126/assignment1/shiftleft2.vhd
+Z60 F/h/tpatro01/ee126/assignment1/shiftleft2.vhd
+l0
+L4
+V]4l=lMY`llHD^WdAfF=243
+!s100 iJel@3zV^f_l5WGEFV3o`0
+R9
+32
+R54
+!i10b 1
+R55
+Z61 !s90 -reportprogress|300|-work|work1|-2002|-explicit|-vopt|-stats=none|/h/tpatro01/ee126/assignment1/shiftleft2.vhd|
+Z62 !s107 /h/tpatro01/ee126/assignment1/shiftleft2.vhd|
+!i113 0
+R14
+R15
+Artl
+R5
+R6
+DEx4 work 10 shiftleft2 0 22 ]4l=lMY`llHD^WdAfF=243
+l13
+L11
+VP_Oz2>I5Qgh[f`Ml:V9IT2
+!s100 ?:DoSLdCbf2h3JQNW>AZQ2
+R9
+32
+R54
+!i10b 1
+R55
+R61
+R62
+!i113 0
+R14
+R15
+Eshiftleft2_tb
+Z63 w1632498341
+R5
+R6
+R0
+Z64 8/h/tpatro01/ee126/assignment1/shiftleft2_tb.vhd
+Z65 F/h/tpatro01/ee126/assignment1/shiftleft2_tb.vhd
+l0
+L4
+V]2AUcRd2M8Ub<oV7Zjk2R2
+!s100 dZ7zzZoZkk`b=l?2WabkA3
+R9
+32
+R54
+!i10b 1
+R55
+Z66 !s90 -reportprogress|300|-work|work1|-2002|-explicit|-vopt|-stats=none|/h/tpatro01/ee126/assignment1/shiftleft2_tb.vhd|
+Z67 !s107 /h/tpatro01/ee126/assignment1/shiftleft2_tb.vhd|
+!i113 0
+R14
+R15
+Abehave
+R5
+R6
+DEx4 work 13 shiftleft2_tb 0 22 ]2AUcRd2M8Ub<oV7Zjk2R2
+l18
+L7
+VI@ZQOdoVXV0cdf3i7WS^U2
+!s100 lOSdU:WdAnfe_@ibZS4IG3
+R9
+32
+R54
+!i10b 1
+R55
+R66
+R67
+!i113 0
+R14
+R15
+Esignextend
+Z68 w1632456892
+Z69 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+R5
+R6
+R0
+Z70 8/h/tpatro01/ee126/assignment1/signextend.vhd
+Z71 F/h/tpatro01/ee126/assignment1/signextend.vhd
+l0
+L5
+V=oeLdZk<9cc?gIlCJ^BUa0
+!s100 zI6GjbSaAm`9I7O>m>bbR2
+R9
+32
+R54
+!i10b 1
+R55
+Z72 !s90 -reportprogress|300|-work|work1|-2002|-explicit|-vopt|-stats=none|/h/tpatro01/ee126/assignment1/signextend.vhd|
+Z73 !s107 /h/tpatro01/ee126/assignment1/signextend.vhd|
+!i113 0
+R14
+R15
+Artl
+R69
+R5
+R6
+DEx4 work 10 signextend 0 22 =oeLdZk<9cc?gIlCJ^BUa0
+l13
+L12
+VHEWmW0Ngo^THLgfZjaUB?2
+!s100 ^FY6aQRno@dEJ`m^ieOlT3
+R9
+32
+R54
+!i10b 1
+R55
+R72
+R73
+!i113 0
+R14
+R15
+Esignextend_tb
+Z74 w1632457216
+R5
+R6
+R0
+Z75 8/h/tpatro01/ee126/assignment1/signextend_tb.vhd
+Z76 F/h/tpatro01/ee126/assignment1/signextend_tb.vhd
+l0
+L4
+VQ:P]CMoc]d=L@EUDT5DTE1
+!s100 7z4TjL1V84=T1GCbbNnNo2
+R9
+32
+Z77 !s110 1632506534
+!i10b 1
+Z78 !s108 1632506534.000000
+Z79 !s90 -reportprogress|300|-work|work1|-2002|-explicit|-vopt|-stats=none|/h/tpatro01/ee126/assignment1/signextend_tb.vhd|
+Z80 !s107 /h/tpatro01/ee126/assignment1/signextend_tb.vhd|
+!i113 0
+R14
+R15
+Abehave
+R5
+R6
+DEx4 work 13 signextend_tb 0 22 Q:P]CMoc]d=L@EUDT5DTE1
+l18
+L7
+VVhfmEz65^c0kbSi`Zk`XV0
+!s100 3eMk=bElCmz^b`UI3[1dk1
+R9
+32
+R77
+!i10b 1
+R78
+R79
+R80
+!i113 0
+R14
+R15
+p_2000.vhd|
+!s107 vhdl_src/vital2000/prmtvs_p_2000.vhd|
+!i113 1
+R98
+R14
+Bbody
+DPx4 work 16 vital_primitives 0 22 G>kiXP8Q9dRClKfK1Zn7j1
+R97
+R21
+R20
+31
+R27
+!i10b 1
+R3
+R4
+8vhdl_src/vital2000/prmtvs_b_2000.vhd
+Fvhdl_src/vital2000/prmtvs_b_2000.vhd
+l0
+L33
+VL8@OL8nfVkLF;7TL8_DPa1
+!s100 L8@OL8nfVkLF;7TL8_DPa1
+R9
+R28
+!s90 -debug|-suppress|12110|-93|-work|ieee|-novital|-dirpath|$MODEL_TECH/..|vhdl_src/vital2000/prmtvs_b_2000.vhd|
+!s107 vhdl_src/vital2000/prmtvs_b_2000.vhd|
+!i113 1
+R98
+R14
+Pvital_timing
+R21
+R20
+31
+b1
+R2
+!i10b 1
+R3
+b1
+R4
+b1
+R5
+R6
+8vhdl_src/vital2000/timing_p_2000.vhd
+Fvhdl_src/vital2000/timing_p_2000.vhd
+l0
+L70
+VJ>EBealN09f8GzldA[z2>3
+!s100 J>EBealN09f8GzldA[z2>3
+R9
+b1
+R10
+!s90 -debug|-suppress|12110|-93|-work|ieee|-novital|-dirpath|$MODEL_TECH/..|vhdl_src/vital2000/timing_p_2000.vhd|
+!s107 vhdl_src/vital2000/timing_p_2000.vhd|
+!i113 1
+R98
+R14
+Bbody
+DPx4 work 12 vital_timing 0 22 J>EBealN09f8GzldA[z2>3
+R21
+R20
+31
+R2
+!i10b 1
+R3
+R4
+8vhdl_src/vital2000/timing_b_2000.vhd
+Fvhdl_src/vital2000/timing_b_2000.vhd
+l0
+L49
+VKEim8d[eJ5dE^:mEG0P3S0
+!s100 KEim8d[eJ5dE^:mEG0P3S0
+R9
+R10
+!s90 -debug|-suppress|12110|-93|-work|ieee|-novital|-dirpath|$MODEL_TECH/..|vhdl_src/vital2000/timing_b_2000.vhd|
+!s107 vhdl_src/vital2000/timing_b_2000.vhd|
+!i113 1
+R98
+R14
+m255
+K4
+z2
+!s8c locked
+!s95 MTI
+cModel Technology Builtin Library
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+d/u/qa/buildsites/10.7p/builds/linux/modeltech
+Penv
+32
+b1
+Z0 !s110 1534563791
+!i10b 1
+Z1 OL;C;10.7c;67
+b1
+Z2 OP;C;10.7c;67
+b1
+Z3 w1534562862
+Z4 d$MODEL_TECH/..
+Z5 8vhdl_src/std/env.vhd
+Z6 Fvhdl_src/std/env.vhd
+l0
+L1
+Vd?`1ck@NdeD@H3RZG7FgZ2
+!s100 d?`1ck@NdeD@H3RZG7FgZ2
+Z7 OE;C;10.7c;67
+b1
+Z8 !s108 1534563790.000000
+Z9 !s90 -debug|-suppress|12110|-work|std|-dirpath|$MODEL_TECH/..|vhdl_src/std/env.vhd|
+Z10 !s107 vhdl_src/std/env.vhd|
+!i113 1
+Z11 o-suppress 12110 -debug -work std -dirpath {$MODEL_TECH/..}
+Z12 tExplicit 1 CvgOpt 0
+Bbody
+DPx4 work 3 env 0 22 d?`1ck@NdeD@H3RZG7FgZ2
+32
+R0
+!i10b 1
+R1
+R2
+l0
+L15
+VGO=IeNa]6JLe2BRN4G<kA2
+!s100 GO=IeNa]6JLe2BRN4G<kA2
+R7
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Pstandard
+33
+!s110 1534563790
+!i10b 1
+R1
+R2
+R3
+R4
+8vhdl_src/std/standard.vhd
+Fvhdl_src/std/standard.vhd
+l0
+L8
+VofRa6alAEoSE^5WcJ^O]C2
+!s100 ofRa6alAEoSE^5WcJ^O]C2
+R7
+R8
+!s90 -debug|-suppress|12110|-s|-2008|-work|std|-dirpath|$MODEL_TECH/..|vhdl_src/std/standard.vhd|
+!s107 vhdl_src/std/standard.vhd|
+!i113 1
+o-suppress 12110 -debug -s -2008 -work std -dirpath {$MODEL_TECH/..}
+R12
+Ptextio
+33
+b1
+R0
+!i10b 1
+R1
+b1
+R2
+b1
+Z13 w1533842604
+R4
+Z14 8vhdl_src/std/textio.vhd
+Z15 Fvhdl_src/std/textio.vhd
+l0
+L1
+VzE1`LPoLg^DX3Oz^4Fj1K3
+!s100 zE1`LPoLg^DX3Oz^4Fj1K3
+R7
+b1
+Z16 !s108 1534563791.000000
+Z17 !s90 -debug|-suppress|12110|-2008|-work|std|-dirpath|$MODEL_TECH/..|vhdl_src/std/textio.vhd|
+Z18 !s107 vhdl_src/std/textio.vhd|
+!i113 1
+Z19 o-suppress 12110 -debug -2008 -work std -dirpath {$MODEL_TECH/..}
+R12
+Bbody
+DPx4 work 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+33
+R0
+!i10b 1
+R1
+R2
+l0
+L186
+VOBFf4Pj<FG4ZXfzD:k]VN1
+!s100 OBFf4Pj<FG4ZXfzD:k]VN1
+R7
+R16
+R17
+R18
+!i113 1
+R19
+R12
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          

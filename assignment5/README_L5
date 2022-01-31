@@ -1,0 +1,67 @@
+compilation command:
+
+vcom -quiet -2008 *.vhd tb/*.vhd imem/*.vhd
+
+
+simulation + vcd generation:
+
+vsim -quiet -c work.pipelinedcpu1_tb -do "log -r /*; run 500ns; exit" -wlf pipelinedcpu1.wlf &&  wlf2vcd pipelinedcpu1.wlf -o pipelinedcpu1.vcd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+provide ee126 lab4  'Lab Assignment #4.pdf' lab4.zip
+
+zip -r lab4.zip add.vhd alucontrol.vhd  alu.vhd and2.vhd cpucontrol.vhd dmem_le.vhd  imem/pipe0_imem.vhd mux5.vhd mux5.vhd mux64.vhd pc.vhd  pipe0_imem.vhd  pipelinedcpu0_tb.vhd  pipelinedcpu0.vhd pipelinedregister_EXMEM.vhd pipelinedregister_IDEX.vhd pipelinedregister_IFID.vhd pipelinedregister_MEMWB.vhd README_L4 registers.vhd shiftleft2.vhd signextend.vhd 
+
+Notes:
+
+vsim -quiet -c work.singlecyclecpu_tb -do "log -r /*; run 500ns; exit" -wlf singlecyclecpu.wlf &&  wlf2vcd singlecyclecpu.wlf -o singlecyclecpu.vcd
+
+
+
+signals to pipeline (in and out)
+- on rising edge, pass in and out
+
+
+
+
+vcom -quiet -2008 *.vhd tb/*.vhd imem/imem_p1.vhd
+vsim -quiet -c work.singlecyclecpu_tb -do "log -r /*; run 500ns; exit" -wlf vcd/singlecyclecpu.wlf && wlf2vcd vcd/singlecyclecpu.wlf -o vcd/singlecyclecpu.vcd
+
+
+| Op    | Hex     | Binary      |
+|-------|---------|-------------|
+| ADDI  | 488-489 | 1001000100X |
+| ADDIS | 588-589 | 1011000100X |
+| ANDI  | 490-491 | 1001001000X |
+| ANDIS | 790-791 | 1111001000X |
+| ORRI  | 590-591 | 1011001000X |
+| SUBI  | 688-689 | 1101000100X |
+| SUBIS | 788-789 | 1111000100X |
+| EORI  | 690-691 | 1101001000X |
+| ALL   |         | 1XX100XX00X |
+
+| ALU  | Func   |
+|------|--------|
+| 0000 | AND    |
+| 0001 | OR     |
+| 0010 | ADD    |
+| 0110 | SUB    |
+| 0111 | Pass B |
+| 1100 | NOR    |

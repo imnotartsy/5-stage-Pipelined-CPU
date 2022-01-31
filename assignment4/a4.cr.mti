@@ -1,0 +1,268 @@
+/h/tpatro01/ee126/assignment4/tb/registers_tb.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none /h/tpatro01/ee126/assignment4/tb/registers_tb.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity registers_tb
+-- Compiling architecture behave of registers_tb
+
+} {} {}} /h/tpatro01/ee126/assignment4/pipelinedregister_EXMEM.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none /h/tpatro01/ee126/assignment4/pipelinedregister_EXMEM.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity PipelinedRegister_EXMEM
+-- Compiling architecture rtl of PipelinedRegister_EXMEM
+
+} {} {}} /h/tpatro01/ee126/assignment4/alu.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none /h/tpatro01/ee126/assignment4/alu.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_SIGNED
+-- Compiling entity ALU
+-- Compiling architecture rtl of ALU
+
+} {} {}} /h/tpatro01/ee126/assignment4/tb/cpucontrol_tb.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none /h/tpatro01/ee126/assignment4/tb/cpucontrol_tb.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity cpucontrol_tb
+-- Compiling architecture behave of cpucontrol_tb
+
+} {} {}} /h/tpatro01/ee126/assignment4/shiftleft2.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none /h/tpatro01/ee126/assignment4/shiftleft2.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity ShiftLeft2
+-- Compiling architecture rtl of ShiftLeft2
+
+} {} {}} /h/tpatro01/ee126/assignment4/alucontrol.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none /h/tpatro01/ee126/assignment4/alucontrol.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity ALUControl
+-- Compiling architecture rtl of ALUControl
+
+} {} {}} /h/tpatro01/ee126/assignment4/dmem_le.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none /h/tpatro01/ee126/assignment4/dmem_le.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity DMEM
+-- Compiling architecture behavioral of DMEM
+
+} {} {}} /h/tpatro01/ee126/assignment4/pc.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none /h/tpatro01/ee126/assignment4/pc.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity PC
+-- Compiling architecture rtl of pc
+
+} {} {}} /h/tpatro01/ee126/assignment4/tb/dmem_tb.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none /h/tpatro01/ee126/assignment4/tb/dmem_tb.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity dmem_tb
+-- Compiling architecture behave of dmem_tb
+
+} {} {}} /h/tpatro01/ee126/assignment4/pipe0_imem.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none /h/tpatro01/ee126/assignment4/pipe0_imem.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity IMEM
+-- Compiling architecture behavioral of IMEM
+
+} {} {}} /h/tpatro01/ee126/assignment4/tb/mux64_tb.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none /h/tpatro01/ee126/assignment4/tb/mux64_tb.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mux64_tb
+-- Compiling architecture behave of mux64_tb
+
+} {} {}} /h/tpatro01/ee126/assignment4/pipelinedregister_MEMWB.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none /h/tpatro01/ee126/assignment4/pipelinedregister_MEMWB.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity PipelinedRegister_MEMWB
+-- Compiling architecture rtl of PipelinedRegister_MEMWB
+
+} {} {}} /h/tpatro01/ee126/assignment4/tb/and2_tb.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none /h/tpatro01/ee126/assignment4/tb/and2_tb.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity and2_tb
+-- Compiling architecture behave of and2_tb
+
+} {} {}} /h/tpatro01/ee126/assignment4/mux5.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none /h/tpatro01/ee126/assignment4/mux5.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity MUX5
+-- Compiling architecture rtl of MUX5
+
+} {} {}} /h/tpatro01/ee126/assignment4/registers.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none /h/tpatro01/ee126/assignment4/registers.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity registers
+-- Compiling architecture rtl of registers
+
+} {} {}} /h/tpatro01/ee126/assignment4/pipelinedregister_IDEX.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none /h/tpatro01/ee126/assignment4/pipelinedregister_IDEX.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity PipelinedRegister_IDEX
+-- Compiling architecture rtl of PipelinedRegister_IDEX
+
+} {} {}} /h/tpatro01/ee126/assignment4/add.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none /h/tpatro01/ee126/assignment4/add.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package NUMERIC_STD
+-- Compiling entity ADD
+-- Compiling architecture rtl of ADD
+
+} {} {}} /h/tpatro01/ee126/assignment4/cpucontrol.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none /h/tpatro01/ee126/assignment4/cpucontrol.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity CPUControl
+-- Compiling architecture rtl of CPUControl
+
+} {} {}} /h/tpatro01/ee126/assignment4/singlecyclecpu.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none /h/tpatro01/ee126/assignment4/singlecyclecpu.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity SingleCycleCPU
+-- Compiling architecture rtl of SingleCycleCPU
+
+} {} {}} /h/tpatro01/ee126/assignment4/pipelinedregister_IFID.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none /h/tpatro01/ee126/assignment4/pipelinedregister_IFID.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity PipelinedRegister_IFID
+-- Compiling architecture rtl of PipelinedRegister_IFID
+
+} {} {}} /h/tpatro01/ee126/assignment4/tb/signextend_tb.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none /h/tpatro01/ee126/assignment4/tb/signextend_tb.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity SignExtend_tb
+-- Compiling architecture behave of SignExtend_tb
+
+} {} {}} /h/tpatro01/ee126/assignment4/tb/add_tb.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none /h/tpatro01/ee126/assignment4/tb/add_tb.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity add_tb
+-- Compiling architecture behave of add_tb
+
+} {} {}} /h/tpatro01/ee126/assignment4/dmem.vhd {0 {vcom -work work -2002 -explicit -vopt -stats=none /h/tpatro01/ee126/assignment4/dmem.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+** Error (suppressible): /h/tpatro01/ee126/assignment4/dmem.vhd(81): (vcom-1491) Empty source files.
+
+} {} {}} /h/tpatro01/ee126/assignment4/tb/singlecyclecpu_tb.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none /h/tpatro01/ee126/assignment4/tb/singlecyclecpu_tb.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity SingleCycleCPU_tb
+-- Compiling architecture behave of SingleCycleCPU_tb
+
+} {} {}} /h/tpatro01/ee126/assignment4/tb/alu_tb.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none /h/tpatro01/ee126/assignment4/tb/alu_tb.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity alu_tb
+-- Compiling architecture behave of alu_tb
+
+} {} {}} /h/tpatro01/ee126/assignment4/mux64.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none /h/tpatro01/ee126/assignment4/mux64.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity MUX64
+-- Compiling architecture rtl of MUX64
+
+} {} {}} /h/tpatro01/ee126/assignment4/tb/shiftleft2_tb.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none /h/tpatro01/ee126/assignment4/tb/shiftleft2_tb.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity ShiftLeft2_tb
+-- Compiling architecture behave of ShiftLeft2_tb
+
+} {} {}} /h/tpatro01/ee126/assignment4/tb/pc_tb.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none /h/tpatro01/ee126/assignment4/tb/pc_tb.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity pc_tb
+-- Compiling architecture behave of pc_tb
+
+} {} {}} /h/tpatro01/ee126/assignment4/tb/alucontrol_tb.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none /h/tpatro01/ee126/assignment4/tb/alucontrol_tb.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity alucontrol_tb
+-- Compiling architecture behave of alucontrol_tb
+
+} {} {}} /h/tpatro01/ee126/assignment4/and2.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none /h/tpatro01/ee126/assignment4/and2.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity AND2
+-- Compiling architecture rtl of AND2
+
+} {} {}} /h/tpatro01/ee126/assignment4/tb/mux5_tb.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none /h/tpatro01/ee126/assignment4/tb/mux5_tb.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mux5_tb
+-- Compiling architecture behave of mux5_tb
+
+} {} {}} /h/tpatro01/ee126/assignment4/signextend.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none /h/tpatro01/ee126/assignment4/signextend.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity SignExtend
+-- Compiling architecture rtl of SignExtend
+
+} {} {}}
